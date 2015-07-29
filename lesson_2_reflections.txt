@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 Git creates repository bu does not track any files yet. You must commit files manually to force git to track the files.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+It allows to bunndle files together into one commit
